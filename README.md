@@ -1,7 +1,6 @@
 # ロボット娘
 ロボット娘が朝叩き起こしてくれます。ラインで設定した起床時刻になるとロボットが起動し、棒で叩いて起こしてくれます！起床が確認できると爽やかボイスで挨拶してくれます！ <br>
-![aaa](https://github.com/yattinda/tech_seeker/assets/50829936/ca0d89d5-4f96-41bf-b147-e671cce68c12)
-
+![cf97003c-a21e-40e9-b280-60aefdec3849](https://github.com/yattinda/tech_seeker/assets/50829936/c35ecd16-02e5-4c16-afe9-584b70962bf3)
 ## 受賞
 **SPRESENSE賞（ソニーグループ株式会社様）** <br>
 **GONENGO賞（GONENGO合同会社様）**
@@ -9,7 +8,7 @@
 ## Demo
 [YouTube](https://youtu.be/SUBLhcBheto)
 ## システム構成
-![cf97003c-a21e-40e9-b280-60aefdec3849](https://github.com/yattinda/tech_seeker/assets/50829936/c35ecd16-02e5-4c16-afe9-584b70962bf3)
+
 ![b525fd97-03b9-4e96-af3f-6b91c0987d2c](https://github.com/yattinda/tech_seeker/assets/50829936/68b6068e-bcae-461f-b8f8-4d135b0cab7b)
 
 
