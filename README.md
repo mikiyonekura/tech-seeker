@@ -5,7 +5,8 @@
 **SPRESENSE賞（ソニーグループ株式会社様）** <br>
 **GONENGO賞（GONENGO合同会社様）**
 
-## Demo
+## 作品URL＆Demo
+https://protopedia.net/prototype/3970<br>
 [YouTube](https://youtu.be/SUBLhcBheto)
 ## システム構成
 
